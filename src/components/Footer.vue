@@ -1,6 +1,6 @@
 <template>
   <section class="sm:flex text-white justify-center pb-10">
-    <div class="lg:w-[60%] w-1/2 m-auto">
+    <div class="lg:w-[45%] w-1/2 m-auto">
       <img src="../images/logo.png" alt="" class="sm:m-0 m-auto" />
       <h1 class="text-gray-500 py-3 sm:text-left text-center">
         info@marico.co
