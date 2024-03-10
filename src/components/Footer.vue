@@ -7,8 +7,7 @@
       </h1>
     </div>
     <ul
-      class="lg:w-[20%] sm:w-[30%] w-11/12 sm:my-0 my-5 m-auto flex items-center justify-evenly text-gray-500 text-base"
-    >
+      class="lg:w-[20%] sm:w-[30%] w-11/12 sm:my-0 my-5 m-auto flex items-center justify-evenly text-gray-500 text-base">
       <li class="hover:cursor-pointer hover:text-blue-500">About</li>
       <li class="text-blue-500">Pricing</li>
       <li class="hover:cursor-pointer hover:text-blue-500">Blog</li>

@@ -1,14 +1,10 @@
 <template>
   <section class="text-white">
-    <h1
-      class="xl:text-6xl text-3xl md:text-5xl text-center md:pt-16 pt-10 font-semibold"
-    >
+    <h1 class="xl:text-6xl text-3xl md:text-5xl text-center md:pt-16 pt-10 font-semibold">
       Why Creators Love Marico
     </h1>
     <!-- div -->
-    <div
-      class="md:flex justify-evenly md:w-[70%] sm:w-11/12 w-full m-auto md:my-16 my-10"
-    >
+    <div class="md:flex justify-evenly md:w-[70%] sm:w-11/12 w-full m-auto md:my-16 my-10">
       <!-- div 1 -->
       <div class="md:w-[30%] w-10/12 m-auto">
         <h1 class="text-center font-bold text-xl py-2">
@@ -51,12 +47,8 @@
       necessitatibus pariatur odio unde. Similique.
     </p>
 
-    <fwb-button
-      size="xl"
-      color="none"
-      class="border rounded-xl md:px-24 block m-auto border-gray-500 text-gray-500"
-      >View Avaliable Sources</fwb-button
-    >
+    <fwb-button size="xl" color="none"
+      class="border rounded-xl md:px-24 block m-auto border-gray-500 text-gray-500">View Avaliable Sources</fwb-button>
   </section>
 </template>
 

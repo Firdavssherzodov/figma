@@ -1,6 +1,8 @@
 <template>
   <section>
-    <h1 class="text-center text-white md:text-6xl text-5xl font-semibold">Exports Agree</h1>
+    <h1 class="text-center text-white md:text-6xl text-5xl font-semibold">
+      Exports Agree
+    </h1>
 
     <img
       src="../images/Image.png"

@@ -22,27 +22,17 @@
           <span class="text-blue-500"> Directly</span>
         </h1>
         <p class="text-white font-sans py-4 text-base">
-          <span
-            class="bg-gray-600 text-white w-5 h-10 rounded-[50%] p-0.5 px-2 font-serif"
-            >1</span
-          >
+          <span class="bg-gray-600 text-white w-5 h-10 rounded-[50%] p-0.5 px-2 font-serif">1</span>
           Lorem ipsum dolor sit amet consectetur adipisicing elit.
         </p>
 
         <p class="text-white font-sans text-base py-2">
-          <span
-            class="bg-gray-600 text-white font-serif w-5 h-10 rounded-[50%] p-0.5 px-2"
-            >2</span
-          >
+          <span class="bg-gray-600 text-white font-serif w-5 h-10 rounded-[50%] p-0.5 px-2">2</span>
           Lorem ipsum dolor sit amet consectetur adipisicing elit.
         </p>
         <fwb-button size="lg" class="mr-2 md:my-20 my-10">Get Staeted Now</fwb-button>
-        <fwb-button
-          size="lg"
-          color=""
-          class="border rounded-xl ml-1 border-gray-500 text-gray-500"
-          >Get Staeted Now</fwb-button
-        >
+        <fwb-button size="lg" color="" class="border rounded-xl ml-1 border-gray-500 text-gray-500">Get Staeted
+          Now</fwb-button>
       </div>
       <div class="2xl:w-[40%] lg:w-1/2 w-10/12 lg:m-0 m-auto">
         <img src="../images/Screen2.png" alt="" class="h-[93%]" />
