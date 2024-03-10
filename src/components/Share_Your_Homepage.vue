@@ -12,12 +12,12 @@
       error voluptas porro officia cum autem neque iste .
     </p>
 
-    <section class="md:flex justify-center py-10">
-      <div class="lg:w-[40%] w-11/12 m-auto">
+    <section class="flex justify-center py-10">
+      <div class="lg:w-[40%] w-11/12 md:m-0 m-auto">
         <img src="../images/One_link.png" alt="" class="h-[93%]" />
       </div>
-      <div class="lg:w-[40%] w-11/12 m-auto md:my-0 my-5">
-        <img src="../images/Collect.png" alt="" class="h-[93%]" />
+      <div class="lg:w-[40%] w-11/12 md:m-0  md:my-0 m-auto my-5">
+        <img src="../images/Collect.png" alt="" class="" />
       </div>
     </section>
   </section>

@@ -13,7 +13,7 @@
     </p>
     <!-- section -->
     <section class="lg:flex my-16 justify-center font-sans">
-      <div class="2xl:w-[40%] lg:w-1/2 w-10/12 m-auto text-white py-10 px-2">
+      <div class="2xl:w-[40%] lg:w-1/2 w-10/12 lg:m-0 m-auto text-white py-10 px-2">
         <h1 class="pb-10 text-lg">Create & Share</h1>
 
         <h1 class="text-6xl font-semibold pb-10">
@@ -44,7 +44,7 @@
           >Get Staeted Now</fwb-button
         >
       </div>
-      <div class="2xl:w-[40%] lg:w-1/2 w-10/12 m-auto">
+      <div class="2xl:w-[40%] lg:w-1/2 w-10/12 lg:m-0 m-auto">
         <img src="../images/Screen2.png" alt="" class="h-[93%]" />
       </div>
     </section>
