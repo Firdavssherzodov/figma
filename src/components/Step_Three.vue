@@ -2,10 +2,10 @@
   <section class="text-white">
     <p class="text-center text-blue-500 font-semibold md:pt-20 pt-10">STEP 3</p>
 
-    <h1 class="md:text-6xl text-4xl text-center py-2 font-semibold">
+    <h1 class="md:text-6xl text-4xl text-center py-2 font-semibold md:px-0 px-3">
       Connect Your Content
     </h1>
-    <p class="text-center py-6 text-gray-500 md:text-lg">
+    <p class="text-center py-6 text-gray-500 md:text-lg md:px-0 px-2">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex quas corporis
       accusamus ipsum hic non, <br />
       error voluptas porro officia cum autem neque iste quod nesciunt
