@@ -19,7 +19,7 @@
         <img src="../images/One_link.png" alt="" class="h-[400px] sm:h-[93%]" />
       </div>
       <div class="lg:w-[40%] w-11/12 md:m-0 md:my-0 m-auto my-5">
-        <img src="../images/Collect.png" alt="" class="h-[400px] sm:h-[93%" />
+        <img src="../images/Collect.png" alt=""  />
       </div>
     </section>
   </section>
