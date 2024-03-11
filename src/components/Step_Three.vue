@@ -51,7 +51,7 @@
         >
       </div>
       <div class="2xl:w-[40%] lg:w-1/2 w-10/12 lg:m-0 m-auto">
-        <img src="../images/Screen2.png" alt="" class="sm:h-[93%] h-[400px]" />
+        <img src="../images/Screen2.png" alt="" class="h-[93%]" />
       </div>
     </section>
   </section>
