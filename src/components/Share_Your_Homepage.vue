@@ -15,10 +15,10 @@
     </p>
 
     <section class="sm:flex justify-center py-10">
-      <div class="lg:w-[40%] w-11/12 md:m-0 m-auto">
+      <div class="lg:w-[40%] w-[95%] md:m-0 m-auto">
         <img src="../images/One_link.png" alt="" class="h-[300px] sm:h-[93%]" />
       </div>
-      <div class="lg:w-[40%] w-11/12 md:m-0 md:my-0 m-auto my-5">
+      <div class="lg:w-[40%] w-[95%] md:m-0 md:my-0 m-auto my-5">
         <img src="../images/Collect.png" alt="" />
       </div>
     </section>

@@ -25,17 +25,18 @@
         >
         Lorem ipsum dolor sit amet consectetur adipisicing elit.
       </p>
-      <fwb-button size="lg" class="mr-2 md:my-20 my-10"
+
+      <fwb-button size="" class="p-3 mr-2 md:my-20 my-10"
         >Get Staeted Now</fwb-button
       >
       <fwb-button
-        size="lg"
+        size=""
         color=""
-        class="border rounded-xl md:ml-1 border-gray-500 text-gray-500"
+        class="border rounded-xl p-3 md:ml-1 border-gray-500 text-gray-500"
         >Get Staeted Now</fwb-button
       >
     </div>
-    <div class="2xl:w-[40%] lg:w-1/2 w-11/12">
+    <div class="2xl:w-[40%] lg:w-1/2 w-[95%]">
       <img src="../images/Screen.png" alt="" class="" />
     </div>
   </section>
