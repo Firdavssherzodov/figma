@@ -16,7 +16,7 @@
       <div class="2xl:w-[40%] lg:w-1/2 w-10/12 lg:m-0 m-auto text-white py-10 px-2">
         <h1 class="pb-10 text-lg">Create & Share</h1>
 
-        <h1 class="text-6xl font-semibold pb-10">
+        <h1 class="md:text-6xl text-4xl font-semibold pb-10">
           Reach Your <br />
           Audience
           <span class="text-blue-500"> Directly</span>

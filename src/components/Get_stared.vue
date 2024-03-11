@@ -1,7 +1,7 @@
 <template>
   <div class="text-white py-28">
     <img src="../images/logo.png" alt="" class="m-auto w-20" />
-    <h1 class="text-center md:text-6xl text-3xl font-bold py-5">
+    <h1 class="text-center lg:text-6xl md:text-5xl text-4xl font-bold py-5">
       Get Started Now
     </h1>
     <p class="text-center md:text-2xl">

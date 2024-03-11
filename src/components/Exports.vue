@@ -1,6 +1,6 @@
 <template>
   <section>
-    <h1 class="text-center text-white md:text-6xl text-5xl font-semibold">
+    <h1 class="text-center text-white md:text-6xl text-4xl font-semibold">
       Exports Agree
     </h1>
 
